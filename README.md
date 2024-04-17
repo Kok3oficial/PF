@@ -13,7 +13,7 @@
 <img src="https://github.com/Kok3oficial/PF/blob/main/images/Objeto%20para%20almacenar%20los%20votos%20de%20cada%20candidato.jpg">
 <p>En la primera imagen, se distinue el objeto que sirve para almacenar los votos de cada candidato. En este sistema de votación, son equipos que participan en la Copa Libertadores de América que posiblemente puede salir campeón.</p>
 <br>
-src="https://github.com/Kok3oficial/PF/blob/main/images/Objeto%20para%20almacenar%20los%20votos%20de%20cada%20candidato.jpg">
+<img src="https://github.com/Kok3oficial/PF/blob/main/images/Objeto%20para%20almacenar%20los%20votos%20de%20cada%20candidato.jpg">
 <p>En la primera imagen, se distinue el objeto que sirve para almacenar los votos de cada candidato. En este sistema de votación, son equipos que participan en la Copa Libertadores de América que posiblemente puede salir campeón.</p>
 <br>
 
