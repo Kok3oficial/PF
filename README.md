@@ -4,5 +4,7 @@
 <br>
 <h2><b>Funcionalidades</b></h2>
 <p><b>Inicialización de Resultados:</b> El sistema inicializa los resultados de la votación con cero votos para cada candidato al cargar la página.</p>
+<p><b>Creación de Botones de Votación: </b> Se generan botones dinámicamente en la interfaz HTML para cada candidato, permitiendo a los usuarios votar por ellos.</p>
+
 
 
