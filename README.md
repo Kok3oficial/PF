@@ -10,9 +10,11 @@
 <br>
 <h2>Código Fuente</h2>
 <p>El código fuente se encuentra en el archivo <b>index.js</b>. Este archivo contiene las funciones necesarias para inicializar los resultados, crear los botones de votación, registrar los votos y gestionar la lógica de la votación.</p>
+<img src="">
 <br>
 <h2>Uso</h2>
 <p>Para utilizar el sistema de votación, simplemente abre el archivo HTML en un navegador web. Se mostrarán los botones de votación para cada candidato y podrás votar haciendo clic en ellos.</p>
+
 
 
 
