@@ -20,7 +20,7 @@
 <p>La siguiente función sirve para crear botones de votación para cada candidato y que al hacer click, se sumará un voto al candidato.</p>
 <br>
 <img src="images/Función para registrar los votos.jpg">
-<p>La siguiente función sirve para reistrar los votos para cada candidato.</p>
+<p>La siguiente función sirve para registrar los votos para cada candidato.</p>
 <br>
 <img src="images/Lista de candidatos.jpg">
 <p>En una constante, se muestran la lista de candidatos separados por comas.</p>
